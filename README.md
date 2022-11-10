@@ -1,4 +1,8 @@
-#  *integracio continua* <img width="10%" height="10%" src="https://campusvirtual.poligran.edu.co/img/logopoli_w.png">
+ <p align="center">
+ <img width="20%" height="20%" src="https://campusvirtual.poligran.edu.co/img/logopoli_w.png">
+ </p>
+ 
+ #  *integracio continua* :space_invader:
 
 * *Velez Londoño Jhon Fredy*
 
