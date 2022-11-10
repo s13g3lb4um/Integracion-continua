@@ -1,4 +1,4 @@
-# *integracio continua*
+#  *integracio continua* <img width="10%" height="10%" src="https://campusvirtual.poligran.edu.co/img/logopoli_w.png">
 
 * *Velez Londoño Jhon Fredy*
 
