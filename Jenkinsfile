@@ -11,7 +11,7 @@ pipeline{
 		stage('Build') {
 
 			steps {
-				sh 'docker build -t juan1913/intcontinua:latest .'
+				sh 'docker build -t s13g3lb4um/intcontinua:latest .'
 			}
 		}
 
@@ -25,7 +25,7 @@ pipeline{
 		stage('Push') {
 
 			steps {
-				sh 'docker push juan1913/intcontinua:latest'
+				sh 'docker push s13g3lb4um/intcontinua:latest'
 			}
 		}
 	}
